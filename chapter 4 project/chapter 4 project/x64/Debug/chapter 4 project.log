@@ -1,0 +1,6 @@
+﻿  3.c
+C:\Users\chldb\source\repos\chapter 4 project\chapter 4 project\3.c(13,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\chldb\source\repos\chapter 4 project\chapter 4 project\3.c(13,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\chldb\source\repos\chapter 4 project\chapter 4 project\3.c(15,9): warning C4477: 'printf' : 서식 문자열 '%X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char (*)[100]'입니다.
+C:\Users\chldb\source\repos\chapter 4 project\chapter 4 project\3.c(15,9): warning C4313: 'printf': 서식 문자열의 '%X'이(가) char (*)[100]' 형식의 인수 1과(와) 충돌합니다.
+  chapter 4 project.vcxproj -> C:\Users\chldb\source\repos\chapter 4 project\x64\Debug\chapter 4 project.exe
