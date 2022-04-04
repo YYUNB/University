@@ -1,6 +1,0 @@
-﻿빌드 시작...
-1>------ 빌드 시작: 프로젝트: chapter 3 project, 구성: Debug x64 ------
-1>MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-1>C:\Users\chldb\source\repos\chapter 3 project\x64\Debug\chapter 3 project.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
-1>"chapter 3 project.vcxproj" 프로젝트를 빌드했습니다. - 실패
-========== 빌드: 성공 0, 실패 1, 최신 0, 생략 0 ==========
